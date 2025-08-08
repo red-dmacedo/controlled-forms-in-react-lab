@@ -68,7 +68,7 @@ input {
 
 .bookCardsDiv {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */ /* I have commented out this line because I like viewing this as a row */
   flex-wrap: wrap;
   width: 90%;
   margin-top: 20px;
